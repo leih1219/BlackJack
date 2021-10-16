@@ -41,7 +41,7 @@
 
 ***
 
-#Improvement 
+# Improvement 
 - Support multiple players: up to 10
 - Use Comparable in Hand class
 
